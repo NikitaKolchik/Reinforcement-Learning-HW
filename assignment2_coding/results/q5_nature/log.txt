@@ -1,0 +1,402 @@
+2023-04-23 12:41:04,086:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 12:41:04,276:DEBUG: Creating converter from 7 to 5
+2023-04-23 12:41:04,276:DEBUG: Creating converter from 5 to 7
+2023-04-23 12:41:04,276:DEBUG: Creating converter from 7 to 5
+2023-04-23 12:41:04,277:DEBUG: Creating converter from 5 to 7
+2023-04-23 12:41:04,781:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 12:41:04,782:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 12:41:04,881:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 12:41:05,446:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 12:41:05,959:INFO: Evaluating...
+2023-04-23 12:41:05,970:INFO: Average reward: -1.00 +/- 0.00
+2023-04-23 12:45:25,566:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 12:45:25,744:DEBUG: Creating converter from 7 to 5
+2023-04-23 12:45:25,745:DEBUG: Creating converter from 5 to 7
+2023-04-23 12:45:25,745:DEBUG: Creating converter from 7 to 5
+2023-04-23 12:45:25,745:DEBUG: Creating converter from 5 to 7
+2023-04-23 12:45:26,252:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 12:45:26,252:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 12:45:26,351:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 12:45:26,897:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 12:45:27,402:INFO: Evaluating...
+2023-04-23 12:45:27,550:INFO: Average reward: -1.00 +/- 0.00
+2023-04-23 13:16:14,058:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 13:16:14,240:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:16:14,241:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:16:14,241:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:16:14,241:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:16:14,749:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 13:16:14,750:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 13:16:14,855:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 13:16:15,410:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 13:16:15,921:INFO: Evaluating...
+2023-04-23 13:16:16,069:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 13:20:50,052:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 13:20:50,320:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:20:50,320:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:20:50,320:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:20:50,320:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:20:51,063:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 13:20:51,064:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 13:20:51,211:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 13:20:52,067:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 13:20:52,817:INFO: Evaluating...
+2023-04-23 13:20:53,051:INFO: Average reward: -1.50 +/- 0.00
+2023-04-23 13:24:19,985:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 13:24:20,164:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:24:20,164:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:24:20,164:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:24:20,164:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:24:20,649:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 13:24:20,650:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 13:24:20,748:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 13:24:21,306:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 13:24:21,822:INFO: Evaluating...
+2023-04-23 13:24:21,976:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 13:39:56,886:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 13:39:57,074:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:39:57,074:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:39:57,074:DEBUG: Creating converter from 7 to 5
+2023-04-23 13:39:57,074:DEBUG: Creating converter from 5 to 7
+2023-04-23 13:39:57,596:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 13:39:57,596:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 13:39:57,700:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 13:39:58,250:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 13:39:58,753:INFO: Evaluating...
+2023-04-23 15:00:50,393:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 15:00:50,672:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:00:50,672:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:00:50,672:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:00:50,672:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:00:51,643:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 15:00:51,643:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 15:00:51,789:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 15:00:52,640:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 15:00:53,380:INFO: Evaluating...
+2023-04-23 15:12:08,063:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 15:12:08,358:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:12:08,358:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:12:08,358:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:12:08,358:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:12:09,116:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 15:12:09,117:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 15:12:09,267:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 15:12:10,132:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 15:12:10,890:INFO: Evaluating...
+2023-04-23 15:12:11,088:INFO: Average reward: 0.00 +/- 0.00
+2023-04-23 15:14:07,444:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 15:14:07,629:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:14:07,629:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:14:07,629:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:14:07,629:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:14:08,133:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 15:14:08,133:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 15:14:08,232:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 15:14:08,790:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 15:14:09,306:INFO: Evaluating...
+2023-04-23 15:14:42,557:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 15:14:42,747:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:14:42,748:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:14:42,748:DEBUG: Creating converter from 7 to 5
+2023-04-23 15:14:42,748:DEBUG: Creating converter from 5 to 7
+2023-04-23 15:14:43,262:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 15:14:43,263:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 15:14:43,362:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 15:14:43,905:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 15:14:44,407:INFO: Evaluating...
+2023-04-23 15:14:44,549:INFO: Average reward: -1.00 +/- 0.00
+2023-04-23 16:50:31,935:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 16:50:32,115:DEBUG: Creating converter from 7 to 5
+2023-04-23 16:50:32,116:DEBUG: Creating converter from 5 to 7
+2023-04-23 16:50:32,116:DEBUG: Creating converter from 7 to 5
+2023-04-23 16:50:32,116:DEBUG: Creating converter from 5 to 7
+2023-04-23 16:50:32,626:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 16:50:32,627:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 16:50:32,725:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 16:50:33,282:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 16:50:33,775:INFO: Evaluating...
+2023-04-23 16:50:33,908:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:03:04,214:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:03:04,395:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:03:04,395:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:03:04,395:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:03:04,395:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:03:04,902:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:03:04,902:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:03:05,002:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:03:05,564:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:03:06,156:INFO: Evaluating...
+2023-04-23 17:04:59,129:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:04:59,311:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:04:59,312:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:04:59,312:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:04:59,312:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:04:59,825:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:04:59,825:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:04:59,928:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:05:00,518:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:05:01,041:INFO: Evaluating...
+2023-04-23 17:05:01,189:INFO: Average reward: 1.40 +/- 0.00
+2023-04-23 17:15:48,340:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:15:48,527:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:15:48,527:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:15:48,528:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:15:48,528:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:15:49,040:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:15:49,040:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:15:49,143:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:15:49,704:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:15:50,222:INFO: Evaluating...
+2023-04-23 17:17:36,869:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:17:37,049:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:17:37,049:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:17:37,049:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:17:37,049:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:17:37,548:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:17:37,548:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:17:37,648:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:17:38,211:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:17:38,714:INFO: Evaluating...
+2023-04-23 17:18:50,640:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:18:50,828:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:18:50,828:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:18:50,829:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:18:50,829:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:18:51,342:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:18:51,342:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:18:51,442:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:18:51,996:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:18:52,543:INFO: Evaluating...
+2023-04-23 17:20:33,920:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:20:34,107:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:20:34,107:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:20:34,107:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:20:34,107:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:20:34,628:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:20:34,628:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:20:34,729:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:20:35,278:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:20:35,783:INFO: Evaluating...
+2023-04-23 17:32:02,350:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:32:02,531:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:32:02,531:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:32:02,531:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:32:02,531:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:32:03,037:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:32:03,037:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:32:03,137:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:32:03,695:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:32:04,203:INFO: Evaluating...
+2023-04-23 17:38:55,631:DEBUG: Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2023-04-23 17:38:55,821:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:38:55,821:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:38:55,821:DEBUG: Creating converter from 7 to 5
+2023-04-23 17:38:55,821:DEBUG: Creating converter from 5 to 7
+2023-04-23 17:38:56,340:DEBUG: Initializing MLIR with module: _site_initialize_0
+2023-04-23 17:38:56,341:DEBUG: Registering dialects from initializer <module 'jaxlib.mlir._mlir_libs._site_initialize_0' from '/usr/local/lib/python3.9/dist-packages/jaxlib/mlir/_mlir_libs/_site_initialize_0.so'>
+2023-04-23 17:38:56,450:DEBUG: etils.epath found. Using etils.epath for file I/O.
+2023-04-23 17:38:57,003:INFO: NumExpr defaulting to 2 threads.
+2023-04-23 17:38:57,574:INFO: Evaluating...
+2023-04-23 17:38:57,605:INFO: Average reward: 0.00 +/- 0.00
+2023-04-23 17:38:58,735:INFO: Evaluating...
+2023-04-23 17:38:58,764:INFO: Average reward: 1.40 +/- 0.00
+2023-04-23 17:39:00,033:INFO: Evaluating...
+2023-04-23 17:39:00,056:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:01,282:INFO: Evaluating...
+2023-04-23 17:39:01,309:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:02,620:INFO: Evaluating...
+2023-04-23 17:39:02,644:INFO: Average reward: 1.40 +/- 0.00
+2023-04-23 17:39:03,894:INFO: Evaluating...
+2023-04-23 17:39:03,919:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:05,566:INFO: Evaluating...
+2023-04-23 17:39:05,607:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:07,523:INFO: Evaluating...
+2023-04-23 17:39:07,569:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:09,597:INFO: Evaluating...
+2023-04-23 17:39:09,622:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:10,950:INFO: Evaluating...
+2023-04-23 17:39:10,974:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:12,306:INFO: Evaluating...
+2023-04-23 17:39:12,334:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:13,638:INFO: Evaluating...
+2023-04-23 17:39:13,661:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:15,019:INFO: Evaluating...
+2023-04-23 17:39:15,042:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:16,401:INFO: Evaluating...
+2023-04-23 17:39:16,425:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:17,736:INFO: Evaluating...
+2023-04-23 17:39:17,761:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:19,077:INFO: Evaluating...
+2023-04-23 17:39:19,101:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:20,853:INFO: Evaluating...
+2023-04-23 17:39:20,888:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:22,956:INFO: Evaluating...
+2023-04-23 17:39:22,995:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:24,868:INFO: Evaluating...
+2023-04-23 17:39:24,892:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:26,209:INFO: Evaluating...
+2023-04-23 17:39:26,238:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:27,855:INFO: Evaluating...
+2023-04-23 17:39:27,903:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:29,771:INFO: Evaluating...
+2023-04-23 17:39:29,795:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:31,201:INFO: Evaluating...
+2023-04-23 17:39:31,230:INFO: Average reward: 0.50 +/- 0.00
+2023-04-23 17:39:32,590:INFO: Evaluating...
+2023-04-23 17:39:32,613:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:33,973:INFO: Evaluating...
+2023-04-23 17:39:33,998:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:35,774:INFO: Evaluating...
+2023-04-23 17:39:35,806:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:37,863:INFO: Evaluating...
+2023-04-23 17:39:37,904:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:39,883:INFO: Evaluating...
+2023-04-23 17:39:39,906:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:41,284:INFO: Evaluating...
+2023-04-23 17:39:41,311:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:42,716:INFO: Evaluating...
+2023-04-23 17:39:42,739:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:44,159:INFO: Evaluating...
+2023-04-23 17:39:44,183:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:45,576:INFO: Evaluating...
+2023-04-23 17:39:45,601:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:47,023:INFO: Evaluating...
+2023-04-23 17:39:47,048:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:48,437:INFO: Evaluating...
+2023-04-23 17:39:48,461:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:50,030:INFO: Evaluating...
+2023-04-23 17:39:50,063:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:51,999:INFO: Evaluating...
+2023-04-23 17:39:52,037:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:39:54,165:INFO: Evaluating...
+2023-04-23 17:39:54,205:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:55,834:INFO: Evaluating...
+2023-04-23 17:39:55,857:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:57,284:INFO: Evaluating...
+2023-04-23 17:39:57,310:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:39:58,725:INFO: Evaluating...
+2023-04-23 17:39:58,748:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:00,165:INFO: Evaluating...
+2023-04-23 17:40:00,188:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:01,652:INFO: Evaluating...
+2023-04-23 17:40:01,676:INFO: Average reward: 6.00 +/- 0.00
+2023-04-23 17:40:03,118:INFO: Evaluating...
+2023-04-23 17:40:03,141:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:04,645:INFO: Evaluating...
+2023-04-23 17:40:04,682:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:06,748:INFO: Evaluating...
+2023-04-23 17:40:06,783:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:08,968:INFO: Evaluating...
+2023-04-23 17:40:09,008:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:10,993:INFO: Evaluating...
+2023-04-23 17:40:11,018:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:12,460:INFO: Evaluating...
+2023-04-23 17:40:12,485:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:13,896:INFO: Evaluating...
+2023-04-23 17:40:13,920:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:15,404:INFO: Evaluating...
+2023-04-23 17:40:15,434:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:16,842:INFO: Evaluating...
+2023-04-23 17:40:16,865:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:18,255:INFO: Evaluating...
+2023-04-23 17:40:18,279:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:19,700:INFO: Evaluating...
+2023-04-23 17:40:19,737:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:21,913:INFO: Evaluating...
+2023-04-23 17:40:21,950:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:24,052:INFO: Evaluating...
+2023-04-23 17:40:24,092:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:25,897:INFO: Evaluating...
+2023-04-23 17:40:25,921:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:27,353:INFO: Evaluating...
+2023-04-23 17:40:27,382:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:28,758:INFO: Evaluating...
+2023-04-23 17:40:28,782:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:30,199:INFO: Evaluating...
+2023-04-23 17:40:30,223:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:31,607:INFO: Evaluating...
+2023-04-23 17:40:31,629:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:33,027:INFO: Evaluating...
+2023-04-23 17:40:33,056:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:34,463:INFO: Evaluating...
+2023-04-23 17:40:34,494:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:36,223:INFO: Evaluating...
+2023-04-23 17:40:36,256:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:38,199:INFO: Evaluating...
+2023-04-23 17:40:38,239:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:40,237:INFO: Evaluating...
+2023-04-23 17:40:40,260:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:41,650:INFO: Evaluating...
+2023-04-23 17:40:41,674:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:43,066:INFO: Evaluating...
+2023-04-23 17:40:43,089:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:44,481:INFO: Evaluating...
+2023-04-23 17:40:44,504:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:45,903:INFO: Evaluating...
+2023-04-23 17:40:45,927:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:47,306:INFO: Evaluating...
+2023-04-23 17:40:47,335:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:48,712:INFO: Evaluating...
+2023-04-23 17:40:48,736:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:50,226:INFO: Evaluating...
+2023-04-23 17:40:50,258:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:52,170:INFO: Evaluating...
+2023-04-23 17:40:52,202:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:54,269:INFO: Evaluating...
+2023-04-23 17:40:54,308:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:55,920:INFO: Evaluating...
+2023-04-23 17:40:55,946:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:57,315:INFO: Evaluating...
+2023-04-23 17:40:57,345:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:40:58,732:INFO: Evaluating...
+2023-04-23 17:40:58,755:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:00,132:INFO: Evaluating...
+2023-04-23 17:41:00,157:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:01,491:INFO: Evaluating...
+2023-04-23 17:41:01,515:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:02,904:INFO: Evaluating...
+2023-04-23 17:41:02,937:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:04,301:INFO: Evaluating...
+2023-04-23 17:41:04,325:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:06,005:INFO: Evaluating...
+2023-04-23 17:41:06,037:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:08,040:INFO: Evaluating...
+2023-04-23 17:41:08,083:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:10,172:INFO: Evaluating...
+2023-04-23 17:41:10,196:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:11,566:INFO: Evaluating...
+2023-04-23 17:41:11,593:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:12,934:INFO: Evaluating...
+2023-04-23 17:41:12,958:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:14,351:INFO: Evaluating...
+2023-04-23 17:41:14,374:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:15,734:INFO: Evaluating...
+2023-04-23 17:41:15,758:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:17,143:INFO: Evaluating...
+2023-04-23 17:41:17,171:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:18,496:INFO: Evaluating...
+2023-04-23 17:41:18,522:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:19,935:INFO: Evaluating...
+2023-04-23 17:41:19,960:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:21,931:INFO: Evaluating...
+2023-04-23 17:41:21,964:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:24,057:INFO: Evaluating...
+2023-04-23 17:41:24,097:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:25,769:INFO: Evaluating...
+2023-04-23 17:41:25,792:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:27,156:INFO: Evaluating...
+2023-04-23 17:41:27,180:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:28,597:INFO: Evaluating...
+2023-04-23 17:41:28,621:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:30,033:INFO: Evaluating...
+2023-04-23 17:41:30,056:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:31,398:INFO: Evaluating...
+2023-04-23 17:41:31,421:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:32,780:INFO: Evaluating...
+2023-04-23 17:41:32,803:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:34,187:INFO: Evaluating...
+2023-04-23 17:41:34,213:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:34,907:INFO: - Training done.
+2023-04-23 17:41:34,908:INFO: Evaluating...
+2023-04-23 17:41:34,932:INFO: Average reward: 6.10 +/- 0.00
+2023-04-23 17:41:34,935:DEBUG: Loaded backend agg version v2.2.
